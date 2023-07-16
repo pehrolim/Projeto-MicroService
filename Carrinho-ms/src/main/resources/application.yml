@@ -4,7 +4,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost/carrinho-ms-db?createDatabaseIfNotExist=true&serverTimezone=UTC
-    password: 
+    password:
     username: root
   jpa:
     hibernate:
